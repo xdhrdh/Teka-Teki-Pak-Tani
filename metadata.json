@@ -1,0 +1,6 @@
+{
+  "name": "Teka-Teki Sungai Pak Tani: Serigala, Kambing & Kol",
+  "description": "Game edukasi logika 3D interaktif menyeberangi sungai bersama Pak Tani, Serigala, Kambing, dan Kol untuk siswa SD dan proyektor kelas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
